@@ -1,0 +1,14 @@
+name: 'casa alessa '
+layout_spectrum: 0.9599875780892001
+typography_spectrum: 0.03016549611874597
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.1363016942591927
+  lightness: 0.48517046118632035
+  saturation: 0.553097683127817
+  rhythmicContrast: 0.35498168661519136
